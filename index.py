@@ -1,11 +1,3 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-# Author     : Swissky
-# How to use : python index.py --dir test
-# Educational purpose only !
-
-# TODO afficher toutes les modifications de la variable
 
 import sys
 import argparse
